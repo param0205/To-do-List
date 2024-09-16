@@ -1,0 +1,37 @@
+.ArticleClass{
+    height: 100px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #dcdcdc;
+    margin-top:10px;
+    padding: 15px;
+}
+.ArticleClass:hover{
+    background-color: rgb(231, 198, 248);
+}
+.DeleteIcon{
+    opacity: 50%;
+    width: 25px;
+}
+.DeleteIcon:hover{
+    opacity: 80%;
+}
+.TaskCss{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-top: 15px;
+    height: 40px;
+}
+.titleclass{
+    margin:5px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.Taskbutton{
+    justify-content: start;
+    margin-left: 10px;
+}
+.Deletebutton{
+    margin-right: 10px;
+}

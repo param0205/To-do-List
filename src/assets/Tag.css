@@ -1,0 +1,13 @@
+.Tag{
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 5px;  
+    padding : 2px 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;  
+    border: 0px;
+}
+.Tag:hover{
+    background-color: aliceblue;
+}

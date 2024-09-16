@@ -1,0 +1,13 @@
+.Sectionclass{
+    background-color: #fff;
+    width: 33.33%;
+    margin: 20px;
+  }
+  .Iconclass{
+    margin-right: 5px;
+    width: 30px;
+  }
+  .SubHeaderclass{
+    display: flex;
+    align-items: center;
+  }

@@ -1,0 +1,17 @@
+.AppClass{
+  display: grid;
+  grid-template-rows: 150px auto;
+
+}
+.Headercss{
+  background-color: rgb(218, 73, 73);
+  font-style: italic;
+  font-size: large;
+  justify-content: center;
+  align-content: center;
+}
+.mainClass{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px 8%;
+}
